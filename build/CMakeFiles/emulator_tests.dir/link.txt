@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/emulator_tests.dir/tests/emulator_test.cpp.o CMakeFiles/emulator_tests.dir/src/emulator.cpp.o -o emulator_tests  lib/libgtest.a lib/libgtest_main.a lib/libgtest.a 
