@@ -1,3 +1,0 @@
-/workspaces/arm_emulator/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
-/workspaces/arm_emulator/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
-/workspaces/arm_emulator/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
