@@ -1,5 +1,7 @@
 # RISC-V Emulator in C++
 
+[![C++ CI](https://github.com/tahazz5/arm_emulator/actions/workflows/ci.yml/badge.svg)](https://github.com/tahazz5/arm_emulator/actions/workflows/ci.yml)
+
 This is a simple RISC-V (RV32I) emulator implemented in C++.
 
 ## Features
